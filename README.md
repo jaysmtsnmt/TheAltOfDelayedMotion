@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @TheAltOfDelayedMotion
-- 👀 I love coding, especially Python
-- 🌱 Learning pretty much anything
-- 📫 jaydensoh1212@gmail.com
-- the official alt of DelayedMotion
-- 14 years old
+- 👀 Living life, what about you? 
+- 📫 delayedjayden@gmail.com
+
 <!---
 TheAltOfDelayedMotion/TheAltOfDelayedMotion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
